@@ -1,0 +1,46 @@
+server:
+  port: 9000
+spring:
+ application:
+  name: quiz-api
+ datasource:
+  url: jdbc:mysql://roundhouse.proxy.rlwy.net:33894/railway
+  username: root
+  password: PWxEcjMDdvTinkGqvGRDaWJvGiPELBIc
+  driver-class-name: com.mysql.cj.jdbc.Driver
+ jpa:
+   properties:
+    hibernate:
+     dialect: org.hibernate.dialect.MySQL8Dialect
+     format-sql: true
+   show-sql: true
+   hibernate:
+     ddl-auto: update
+ servlet:
+  multipart:
+   max-file-size: 2MB
+   max-request-size: 2MB
+ security:
+  user:
+   name: admin
+   password: 1234
+ mail:
+    username: 20130303@st.hcmuaf.edu.vn
+    port: '587'
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: 'true'
+          auth: 'true'
+    host: smtp.gmail.com
+    password: optc fztr oofr meql
+nlu:
+ jwt:
+  expiration: 86400000
+  secret: xIozWdD9r3RiqzaaRxJTYMvVvoKVk4G9Iq4kZ7ZEXXpePPxgtRQKj/O43HYbWhKy
+
+client:
+  url:
+    login:
+      user: http://localhost:3000/login-student

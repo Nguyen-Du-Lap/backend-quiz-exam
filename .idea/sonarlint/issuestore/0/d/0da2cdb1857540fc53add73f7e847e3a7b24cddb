@@ -1,0 +1,7 @@
+
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "listOptions".(Ø´Êóüÿÿÿÿ
+
+java:S6204 "zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+Z
+java:S1612"DReplace this lambda with method reference 'OptionRequest::toEntity'.(Ô—ç’

@@ -1,0 +1,17 @@
+
+†	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(ò–Ş‹ÿÿÿÿÿJ$0f0b2efb-2563-49b3-b2b4-be7f3cb4a7db
+š
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(«˜ùéûÿÿÿÿJ$61df711e-0d41-4afc-94be-4ecb99459216
+Œ
+java:S1104"PMake TYPE a static final constant or non-public and provide accessors if needed.(Şî¯…J$d95ee4ea-7da7-4af2-89d3-afb03d201612
+f
+java:S1444"*Make this "public static TYPE" field final(Şî¯…J$a2d7b404-ad2b-41b6-bb08-19094f2ad79f
+‹
+java:S3008"ORename this field "TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şî¯…J$55d62dca-20d7-4c79-8a86-0965ea6e725e
+“
+java:S3008"RRename this field "HEADERs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÌÄúÿÿÿÿJ$c63bdf59-c3b3-4b76-b6d6-da7dae8b46b1
+Œ
+java:S3008"PRename this field "SHEET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ßÉ¡J$bbdac3c2-2b50-4bdd-bdce-134cad304571
+}
+java:S1126"AReplace this if-then-else statement by a single return statement.(Úı÷°J$697b5093-c653-4a6e-8aec-7f3d040459a7
+k	java:S106P"+Replace this use of System.out by a logger.(ôêï‚ÿÿÿÿÿJ$fae86a6b-61ab-4c33-877b-bac96cd34305

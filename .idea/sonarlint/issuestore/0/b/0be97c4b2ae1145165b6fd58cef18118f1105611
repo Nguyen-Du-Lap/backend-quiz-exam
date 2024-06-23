@@ -1,0 +1,27 @@
+
+†	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(µ¦ÛâşÿÿÿÿJ$4916866c-6455-4c73-a86c-c92d63f92c94
+Š
+java:S1192c"NDefine a constant instead of duplicating this literal "students.xlsx" 3 times.(æó‘ÀJ$dd2454f9-0bd8-443a-8a29-83165f98fecb
+~
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞJ$ef99e40d-9c22-4d20-a27b-159d65607276
+~
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c196ba2b-9fcc-4f1d-a66c-e03cbe8b3960
+~
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f41e5d84-2b56-4693-bf56-aae6658078b7
+~
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞJ$327ec869-7dce-4244-986a-171f2aacb985
+~
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7dd056de-9a3f-445c-83f8-bf98d8b43dcb
+~
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄŞJ$96d7f29a-bfdc-4d95-85ab-c069eec05033
+~
+java:S68137"BRemove this field injection and use constructor injection instead.(êæÄŞJ$093f66be-e59a-413a-b32c-e2289fa4d820
+e	java:S106>"+Replace this use of System.out by a logger.(’ é,J$693c322b-9a82-45dd-9e71-70aad21eb04d
+k	java:S106?"+Replace this use of System.out by a logger.(È¹ßâùÿÿÿÿJ$7d2ea19d-b5f0-4b8b-a181-6fb00416c73b
+j
+java:S1905?")Remove this unnecessary cast to "double".(È¹ßâùÿÿÿÿJ$a9b1d7b8-a750-4ee1-8c75-e57da8400f9e
+{	java:S899s";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿJ$f71a478b-84a3-41c8-b4c8-c18ed4a0eda0
+
+java:S4042s"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿJ$e82fabee-2ca4-4696-9cea-07e0e4cc500b
+‡
+java:S1128"DRemove this unused import 'com.nlu.repository.ExamNumberRepository'.(á“ç’8üÉ¾²€2J$d49ea739-cee9-430f-a4f8-cd0fd3b5eb01

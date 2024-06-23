@@ -1,0 +1,13 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8„«à˜ı1J$132c313e-133d-430e-ab94-b21d67eb8ef2
+‚
+java:S1128":Remove this unused import 'com.nlu.utils.DocxReaderUtils'.(š’ÀÊıÿÿÿÿ8„«à˜ı1J$7aeaa8d2-c358-43c3-bd0b-5d731b6faa91
+Š
+java:S1128"BRemove this unused import 'com.nlu.utils.ExcelReaderAnswersUtils'.(”ŒØÂşÿÿÿÿ8„«à˜ı1J$fae55f7d-2a0e-49ba-828c-ed5a478602e1
+
+java:S1128"9Remove this unused import 'com.nlu.utils.PdfReaderUtils'.(Å´ğøÿÿÿÿ8„«à˜ı1J$d795fb62-add4-4f1d-895a-a2caa8d519ae
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8„«à˜ı1J$96c5a680-0605-409d-add5-0262df08af81
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8„«à˜ı1J$681ef324-4482-4844-bad2-9e06f1751197

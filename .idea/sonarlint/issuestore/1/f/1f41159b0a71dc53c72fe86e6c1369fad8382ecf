@@ -1,0 +1,19 @@
+
+…
+java:S68133"BRemove this field injection and use constructor injection instead.(áş‰˜8ğíÆÁü1J$498e2276-f5cf-417c-8017-120897c21140
+…
+java:S68134"BRemove this field injection and use constructor injection instead.(©İ—¼8¾Õßÿ1J$1480ef72-b385-45c7-ac63-6e89310f771e
+ 
+java:S33053"]Inject this field value directly into "authenticationProvider", the only method that uses it.(áş‰˜8òíÆÁü1J$cdf33305-50c3-4e8d-b0f2-e2bb1d0ee886
+
+java:S33054"ZInject this field value directly into "securityFilterChain", the only method that uses it.(©İ—¼8óíÆÁü1J$66116200-1677-4115-868a-ea94f8ed0844
+
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(ïŞÿ‹üÿÿÿÿ8÷íÆÁü1J$313f5c7b-19a0-4e97-8379-966023e4ea33
+ˆ
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¡ƒÿü8÷íÆÁü1J$df8123b3-d344-4c4e-964e-63996911747d
+
+java:S6830?"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œïºãûÿÿÿÿ8üíÆÁü1J$87614930-c6bf-4de9-a59f-d260d513be87
+t
+java:S1602\",Remove useless curly braces around statement(©şÆ„ûÿÿÿÿ8µÉÁü1J$0a249410-7e83-415b-9c6c-24b99a3da1b1
+t
+java:S1611f"1Remove the parentheses around the "web" parameter(ôéÎ¹8‰îÆÁü1J$eaa5ed65-9b54-4b0d-ac43-b07b48893f67

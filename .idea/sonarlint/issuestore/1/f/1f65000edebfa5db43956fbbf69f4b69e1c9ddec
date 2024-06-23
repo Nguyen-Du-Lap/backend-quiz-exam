@@ -1,0 +1,17 @@
+
+
+java:S2259"LA "NullPointerException" could be thrown; "answerFileType" is nullable here.(±Ä­Ê8Ö™ı1J$2db71c38-28f8-42d8-9c73-e942e09ac2ab
+
+java:S2259"FA "NullPointerException" could be thrown; "fileType" is nullable here.(–ı²ßıÿÿÿÿ8Ö™ı1J$1923ab91-94e3-47c4-a8db-9d5b55a0bf9e
+
+java:S3516"9Refactor this method to not always return the same value.(ıÚ“¹ÿÿÿÿÿ8Ö™ı1J$860f404d-1046-42d2-8060-b8846772f3b0
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8–Ö™ı1J$9489a233-9be1-4c75-ae52-d0e64bf8d005
+r	java:S106""+Replace this use of System.out by a logger.(ÓÎ¡œıÿÿÿÿ8˜Ö™ı1J$1a2334e6-af57-4c68-9fa2-9703336a02e6
+n
+java:S1168&"+Return an empty collection instead of null.(¥¹ï8™Ö™ı1J$43b4f1c2-7e32-494e-8d61-16fb33a231ef
+r	java:S106("+Replace this use of System.out by a logger.(„ƒ¶üÿÿÿÿ8È™—™ı1J$27c30e77-fc97-4d50-9cca-a1b8154e9fb4
+n
+java:S1168,"+Return an empty collection instead of null.(¥¹ï8šÖ™ı1J$f3bf2b0f-5f5f-450a-aa57-23d9094f8bc3
+n
+java:S1168."+Return an empty collection instead of null.(¥¹ï8šÖ™ı1J$aef531c4-a663-4cba-af9c-6d27b5eb792d

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Result Exam Email</title>
+    <style>
+        /* CSS styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc; /* Border style */
+            border-radius: 5px; /* Rounded corners */
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .content {
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd; /* Border style */
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2; /* Background color */
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h2>Result Exam Email</h2>
+    </div>
+    <div class="content">
+        <p>Hello <span th:text="${student.fullname}"></span>,</p>
+        <p>Here is your result for the exam:</p>
+        <table>
+            <tr>
+                <th>Student ID</th>
+                <td><span th:text="${student.code}"></span></td>
+            </tr>
+            <tr>
+                <th>Full Name</th>
+                <td><span th:text="${student.fullname}"></span></td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td><span th:text="${student.email}"></span></td>
+            </tr>
+            <tr>
+                <th>Score</th>
+                <td><span th:text="${student.point}"></span></td>
+            </tr>
+        </table>
+        <p>The whole class's scores are in the attached file below!</p>
+    </div>
+    <div class="footer">
+        <p>Best regards,</p>
+        <p>Teacher</span></p>
+    </div>
+</div>
+</body>
+</html>

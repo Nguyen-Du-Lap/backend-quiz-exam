@@ -1,0 +1,11 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(×¹ûÅùÿÿÿÿ8ƒ¸º˜ı1J$f41cae38-8e39-4390-b19e-175a89a2e6fb
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8ûË¿¾ı1J$6945fcf2-ae7b-4b47-b73a-fee1fbffb0bd
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦·Ù³øÿÿÿÿ8²¸º˜ı1J$2cc45074-9669-49ac-bf55-320a10631575
+Œ
+java:S1659 "DDeclare "choiceB" and all following declarations on a separate line.(¾Û¨½ùÿÿÿÿ8²¸º˜ı1J$1d728cbb-4fff-4f36-9630-31ffdd1a589a
+±
+java:S5854,"iUse the CANON_EQ flag with "Pattern.compile(pattern, CANON_EQ).matcher(input).replaceFirst(replacement)".(»¾âÊùÿÿÿÿ8Â¸º˜ı1J$e94bde94-ce29-4d96-aaf5-004a9b30c312

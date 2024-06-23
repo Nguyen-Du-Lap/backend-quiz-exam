@@ -1,0 +1,9 @@
+
+
+java:S1192›"ODefine a constant instead of duplicating this literal "exam_not_found" 3 times.(‚ς›ÿÿÿÿÿ8σÒύκύ1J$429e258a-0013-452b-91c7-a442fe7e3a34
+­
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "listQuestion".(ΨΒκόÿÿÿÿ8ƒΣύκύ1J$efeb110d-faa2-4196-aec2-d10637de6955
+€
+java:S4973"<Strings and Boxed types should be compared using "equals()".(²έχ8’Σύκύ1J$fd694de3-3ecf-40c6-9ab0-eb1476ad4176
+…
+java:S4973£"<Strings and Boxed types should be compared using "equals()".(ΜΎωÿÿÿÿ8’Σύκύ1J$b4109d1b-da18-435d-8714-d9b3d29957e1

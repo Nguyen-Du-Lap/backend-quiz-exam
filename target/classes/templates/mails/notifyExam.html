@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0" />
+    <meta charset="ISO-8859-1">
+    <title>Exam notification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: rgb(192, 192, 192);
+        }
+
+        .card-title {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .list-group {
+            list-style: none;
+            padding: 0;
+        }
+
+        .list-group-item {
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .list-group-item:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Exam Notification</h5>
+                <p class="card-text">Hello <strong th:text="${user.fullname}">Student</strong>,</p>
+                <p class="card-text">You have an upcoming exam. Please find the details below:</p>
+                <p class="card-text">The exam <strong th:text="${exam.title}">[Exam Title]</strong> is scheduled from
+                    <strong th:text="${#dates.format(exam.startTime, 'yyyy-MM-dd HH:mm')}">[Start Time]</strong> to
+                    <strong th:text="${#dates.format(exam.endTime, 'yyyy-MM-dd HH:mm')}">[End Time]</strong>
+                <ul class="list-group">
+                    <li class="list-group-item"><strong>Email:</strong> <span th:text="${user.email}">student@example.com</span></li>
+                    <li class="list-group-item"><strong>Password:</strong> <span th:text="${user.code}">password</span></li>
+                    <li class="list-group-item"><strong>CodeGroup:</strong> <span th:text="${user.codeGroup}">codeGroup</span></li>
+                    <li class="list-group-item"><strong>Exam URL:</strong> <a th:href="${url}" target="_blank">Click here to access your exam</a></li>
+                </ul>
+                <p class="card-text mt-3">Good luck!</p>
+                <p class="card-text">Best regards,<br><span th:text="${senderName}">Teacher</span></p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(…ñ‚¨8Èú‘øü1J$43e2891d-2b78-4007-807e-8bd1b16dce62
+}	java:S125"<This block of commented-out lines of code should be removed.(ĞÇ8÷“æ–ı1J$fe99fdec-8610-409b-9eda-49cb0bace872
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8‘¶¢™ı1J$982b6e07-9a9d-4be3-95e2-93fa43546103
+Œ
+java:S1659"DDeclare "choiceB" and all following declarations on a separate line.(Îîú•ùÿÿÿÿ8Ôú‘øü1J$6f1dad16-6178-45b0-ae0d-84c182664922
+±
+java:S5854)"iUse the CANON_EQ flag with "Pattern.compile(pattern, CANON_EQ).matcher(input).replaceFirst(replacement)".(»¾âÊùÿÿÿÿ8öú‘øü1J$64a01a5e-3b5d-4b0a-a0d3-a7f677c7a2c2
