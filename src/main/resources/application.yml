@@ -4,9 +4,9 @@ spring:
  application:
   name: quiz-api
  datasource:
-  url: jdbc:mysql://roundhouse.proxy.rlwy.net:33894/railway
+  url: jdbc:mysql://roundhouse.proxy.rlwy.net:51923/railway
   username: root
-  password: PWxEcjMDdvTinkGqvGRDaWJvGiPELBIc
+  password: FzuezZmgKprUKgcxkbhbShJhvqAHNYts
   driver-class-name: com.mysql.cj.jdbc.Driver
  jpa:
    properties:
